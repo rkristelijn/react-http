@@ -3,7 +3,15 @@
 To learn about react and http https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/t/lecture/8125770?start=0
 
 # Set up
+1. `git clone ...`
+2. `npm i`
+3. `npm start`
 
+# Design
+![UML](class.svg)
+![Screenshot](screenshot.png)
+
+# Additional set up done already
 After clean install
 
 ```bash
